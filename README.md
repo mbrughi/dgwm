@@ -1,6 +1,6 @@
 # Disable NUX
 
-Disable NUX is a WordPress plugin which disables the "New User Experience" tooltips present in the WordPress administrative experience starting with the block editor introduced in WordPress 5.0.
+Disable NUX is a WordPress plugin which disables the "New User Experience" block editor overlay.
 
 <img width="327" alt="Screen Shot 2020-09-12 at 3 11 51 PM" src="https://user-images.githubusercontent.com/1779930/93003158-60290300-f50a-11ea-8ad0-40f414e64786.png">
 
