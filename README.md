@@ -20,6 +20,6 @@ Tooltips are disabled as long the plugin is activated.
 
 ## License
 
-Copyright 2020 Andrew Duthie
+Copyright 2021 Marco Brughi - Copyright 2020 Andrew Duthie
 
 Released under the [GPLv2 or later License](https://www.gnu.org/licenses/gpl-2.0.html).
