@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: DGWM
- * Plugin URI:  https://github.com/mbrughi/wp-disable-nux/
+ * Plugin URI:  https://github.com/mbrughi/dgwm/
  * Description: Disables Gutenberg welcome modal.
  * Version:     1.2.0
  * Author:      Marco Brughi
